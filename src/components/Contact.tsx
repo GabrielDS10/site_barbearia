@@ -82,7 +82,7 @@ const Contact = () => {
             
             <div className="mt-6">
               <a
-                href="https://wa.me/5511999999999"
+                href="https://wa.me/5541996853593"
                 className="w-full bg-amber-500 hover:bg-amber-600 text-black font-semibold py-4 px-8 rounded-lg transition-all duration-200 transform hover:scale-105 inline-block text-center"
               >
                 Agendar pelo WhatsApp
